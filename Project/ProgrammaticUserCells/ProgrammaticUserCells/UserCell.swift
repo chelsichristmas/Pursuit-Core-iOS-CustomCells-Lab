@@ -9,9 +9,7 @@
 import UIKit
 
 class UserCell: UITableViewCell {
-
-   
-
     
+
 
 }
